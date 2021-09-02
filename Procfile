@@ -1,1 +1,1 @@
-web: streamlit
+web: streamlit app:bank
